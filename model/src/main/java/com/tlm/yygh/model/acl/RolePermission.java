@@ -1,6 +1,6 @@
 package com.tlm.yygh.model.acl;
 
-import com.atguigu.yygh.model.base.BaseEntity;
+import com.tlm.yygh.model.base.BaseEntity;
 import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableName;
 import io.swagger.annotations.ApiModel;
